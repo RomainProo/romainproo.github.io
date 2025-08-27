@@ -1,0 +1,75 @@
+h1 {
+ font-family: 'Courier', Courier, monospace;
+ font-size: large;
+ color:grey;
+ position: absolute;
+ left: 500px;
+ top: 125px;
+}
+
+#lien_utile {
+    text-decoration: none;
+color: slategray;
+ font-family: 'Courier', Courier, monospace;
+ font-size: large;
+position: absolute;
+left: 510px;
+top: 200px;
+}
+
+#Coding {
+text-decoration: none;
+color: slategray;
+ font-family: 'Courier', Courier, monospace;
+ font-size: large;
+position: absolute;
+left: 510px;
+top: 230px;
+}
+
+#Cyclisme {
+text-decoration: none;
+color: slategray;
+ font-family: 'Courier', Courier, monospace;
+ font-size: large;
+position: absolute;
+left: 510px;
+top: 260px;
+}
+
+#Commandes {
+text-decoration: none;
+color: slategray;
+ font-family: 'Courier', Courier, monospace;
+ font-size: large;
+position: absolute;
+left: 510px;
+top: 290px;
+}
+
+#titre {
+    text-decoration: underline;
+}
+
+h2 {
+ background-color: lightblue;
+}
+
+img {
+ border-radius: 50%;
+ height: 100px;
+ width: 100px;
+ margin-top: 3px;
+}
+
+body {
+ background-color: lavander;
+ font-family: sans-serif;
+}
+
+button {
+ margin-top: 20px;
+ background-color: lightblue;
+ border-radius: 10px;
+ padding: 5px;
+}
