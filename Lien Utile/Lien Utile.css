@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Courier', Courier, monospace;
+ font-size: 25px;
+ color:grey;
+ position: absolute;
+ left: 750px;
+ top: 90px;
+}
+
+#glpi {
+position: absolute;
+left: 200px;
+top: 250px;
+}
+
+#checkmk {
+position: absolute;
+left: 300px;
+top: 240px;
+}
+ 
+
+#img_apex {
+position:absolute;
+left: 400px;
+top: 240px
+}
