@@ -7,13 +7,23 @@ h1 {
  top: 125px;
 }
 
+
+#presentation {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium   ;
+    position: sticky;
+    left: 1500px;
+}
+
 #lien_utile {
     text-decoration: none;
 color: slategray;
  font-family: 'Courier', Courier, monospace;
  font-size: large;
 position: absolute;
-left: 510px;
+left: 450px;
 top: 200px;
 }
 
@@ -23,7 +33,7 @@ color: slategray;
  font-family: 'Courier', Courier, monospace;
  font-size: large;
 position: absolute;
-left: 510px;
+left: 450px;
 top: 230px;
 }
 
@@ -33,7 +43,7 @@ color: slategray;
  font-family: 'Courier', Courier, monospace;
  font-size: large;
 position: absolute;
-left: 510px;
+left: 450px;
 top: 260px;
 }
 
@@ -43,7 +53,7 @@ color: slategray;
  font-family: 'Courier', Courier, monospace;
  font-size: large;
 position: absolute;
-left: 510px;
+left: 450px;
 top: 290px;
 }
 
