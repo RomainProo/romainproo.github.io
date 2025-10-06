@@ -73,7 +73,7 @@ img {
 }
 
 body {
- background-color: lightcyan;
+ background-color: #e0fcff70;
  font-family: sans-serif;
 }
 
@@ -83,5 +83,6 @@ button {
  border-radius: 10px;
  padding: 5px;
 }
+
 
 
