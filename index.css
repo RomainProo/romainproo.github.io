@@ -73,7 +73,7 @@ img {
 }
 
 body {
- background-color: lightblue;
+ background-color: lightcyan;
  font-family: sans-serif;
 }
 
@@ -83,4 +83,5 @@ button {
  border-radius: 10px;
  padding: 5px;
 }
+
 
