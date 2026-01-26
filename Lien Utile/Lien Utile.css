@@ -10,20 +10,21 @@ h1 {
 #glpi {
 position: absolute;
 left: 200px;
-top: 250px;
+top: 240px;
 }
 
 #checkmk {
 position: absolute;
-left: 300px;
+left: 350px;
 top: 240px;
 }
  
 
 #img_apex {
 position:absolute;
-left: 400px;
+left: 450px;
 top: 240px
 
 }
+
 
