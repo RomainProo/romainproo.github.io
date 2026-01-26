@@ -8,23 +8,27 @@ h1 {
 }
 
 #glpi {
+text-decoration: none;
 position: absolute;
 left: 200px;
 top: 240px;
 }
 
 #checkmk {
+text-decoration: none;
 position: absolute;
-left: 350px;
+left: 400px;
 top: 240px;
 }
  
 
 #img_apex {
+text-decoration: none;
 position:absolute;
-left: 450px;
+left: 500px;
 top: 240px
 
 }
+
 
 
