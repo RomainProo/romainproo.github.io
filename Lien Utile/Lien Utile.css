@@ -1,34 +1,33 @@
 h1 {
-    font-family: 'Courier', Courier, monospace;
- font-size: 25px;
- color:grey;
- position: absolute;
- left: 750px;
- top: 90px;
+font-family: 'Courier', Courier, monospace;
+font-size: 25px;
+color:grey;
+text-align: center ;
+margin-top: 5%;
 }
 
 #glpi {
 text-decoration: none;
-position: absolute;
-left: 200px;
-top: 240px;
+margin-left: 100px;
+margin-top: 150px;
 }
 
 #checkmk {
 text-decoration: none;
-position: absolute;
-left: 400px;
-top: 240px;
+margin-left: 125px;
+margin-top: 150px;
 }
  
 
-#img_apex {
+#apex_one {
 text-decoration: none;
-position:absolute;
-left: 500px;
-top: 240px
-
+margin-left: 150px;
+margin-top: 150px;
 }
 
-
+#active {
+text-decoration: none;
+margin-left: 200px;
+margin-top: 150px;
+}
 
